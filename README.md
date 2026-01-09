@@ -1,4 +1,4 @@
-# 👋 Olá! Sou Alexandre Zordan
+#  Olá! Sou Alexandre Zordan
 
 **Desenvolvedor Backend .NET | Arquitetura de Microserviços | Azure Cloud**
 
@@ -6,7 +6,7 @@ Especialista em construir sistemas distribuídos escaláveis utilizando Clean Ar
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 - 💼 Desenvolvedor Backend com foco em **microserviços .NET 8**
 - 🏗️ Experiência em **Clean Architecture**, **DDD** e padrões de design (Strategy, Factory, Repository)
@@ -17,7 +17,7 @@ Especialista em construir sistemas distribuídos escaláveis utilizando Clean Ar
 
 ---
 
-## 🔥 Projetos em Destaque
+##  Projetos em Destaque
 
 ### [FCG-Microservices](https://github.com/sorza) - E-commerce de Games
 Arquitetura completa de microserviços para plataforma de venda de jogos digitais, com 6 serviços independentes:
@@ -92,7 +92,7 @@ Arquitetura completa de microserviços para plataforma de venda de jogos digitai
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sorza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -105,7 +105,7 @@ Arquitetura completa de microserviços para plataforma de venda de jogos digitai
 
 ---
 
-## 🎓 Conceitos Demonstrados nos Projetos
+##  Conceitos Demonstrados nos Projetos
 
 ### Event Sourcing
 ```csharp
@@ -150,7 +150,7 @@ await _eventPublisher.PublishAsync(new PaymentProcessedEvent
 
 ---
 
-## 🏗️ Arquitetura da Solução
+##  Arquitetura da Solução
 
 ```mermaid
 graph TB
@@ -205,7 +205,7 @@ graph TB
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-zordan-3070a0103/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.sorza@outlook.com)
@@ -213,4 +213,4 @@ graph TB
 
 ---
 
-⭐ **Disponível para oportunidades** em desenvolvimento backend .NET e arquitetura de microserviços!
+**Disponível para oportunidades** em desenvolvimento backend .NET e arquitetura de microserviços!
