@@ -8,7 +8,7 @@ Especialista em construir sistemas distribuídos escaláveis utilizando Clean Ar
 
 ##  Sobre Mim
 
-- 💼 Desenvolvedor Backend com foco em **microserviços .NET **
+- 💼 Desenvolvedor Backend com foco em **microserviços .NET**
 - 🏗️ Experiência em **Clean Architecture**, **DDD** e padrões de design (Strategy, Factory, Repository)
 - ☁️ Proficiente em **Azure** (Container Apps, Service Bus, Functions, API Management)
 - 📊 Implementação de **Event Sourcing** e **Event-Driven Architecture**
