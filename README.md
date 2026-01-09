@@ -19,7 +19,7 @@ Especialista em construir sistemas distribuídos escaláveis utilizando Clean Ar
 
 ##  Projetos em Destaque
 
-### [FCG-Microservices](https://github.com/sorza) - E-commerce de Games
+### FCG Games
 Arquitetura completa de microserviços para plataforma de venda de jogos digitais, com 6 serviços independentes:
 
 #### 🎮 **[FCG-Games](https://github.com/sorza/FCG-Games)** - Catálogo de Jogos
