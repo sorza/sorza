@@ -13,7 +13,7 @@ Especialista em construir sistemas distribuídos escaláveis utilizando Clean Ar
 - ☁️ Proficiente em **Azure** (Container Apps, Service Bus, Functions, API Management)
 - 📊 Implementação de **Event Sourcing** e **Event-Driven Architecture**
 - 🔐 Autenticação JWT com segurança PBKDF2
-- 🐳 Docker, CI/CD com GitHub Actions
+- 🐳 Docker, CI/CD com Azure Pipelines e GitHub Actions
 
 ---
 
@@ -60,7 +60,7 @@ Arquitetura completa de microserviços para plataforma de venda de jogos digitai
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### Backend & Frameworks
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
