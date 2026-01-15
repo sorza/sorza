@@ -12,7 +12,7 @@ Especialista em construir sistemas distribuídos escaláveis utilizando Clean Ar
 - Experiência em **Clean Architecture**, **DDD** e padrões de design (Strategy, Factory, Repository)
 - Proficiente em **Azure** (Container Apps, Service Bus, Functions, API Management)
 - Implementação de **Event Sourcing** e **Event-Driven Architecture**
-- Autenticação JWT com segurança PBKDF2
+- Autenticação e autorização com JWT e APIM
 - Docker, CI/CD com Azure Pipelines e GitHub Actions
 
 ---
