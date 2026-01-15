@@ -3,8 +3,7 @@
 **Professor Centro Paula Souza | Desenvolvedor Backend .NET**
 
 
-Além de transformar vidas através da educação tecnológica,
-Especialista em construir sistemas distribuídos escaláveis utilizando Clean Architecture, Domain-Driven Design e Event Sourcing.
+Além de transformar vidas através da educação tecnológica, também sou especialista em construir sistemas distribuídos escaláveis utilizando Clean Architecture, Domain-Driven Design e Event Sourcing.
 
 - Desenvolvedor Backend com foco em **microserviços .NET**
 - Experiência em **Clean Architecture**, **DDD** e padrões de design (Strategy, Factory, Repository)
