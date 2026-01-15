@@ -8,12 +8,12 @@ Especialista em construir sistemas distribuídos escaláveis utilizando Clean Ar
 
 ##  Sobre Mim
 
-- 💼 Desenvolvedor Backend com foco em **microserviços .NET**
-- 🏗️ Experiência em **Clean Architecture**, **DDD** e padrões de design (Strategy, Factory, Repository)
-- ☁️ Proficiente em **Azure** (Container Apps, Service Bus, Functions, API Management)
-- 📊 Implementação de **Event Sourcing** e **Event-Driven Architecture**
-- 🔐 Autenticação JWT com segurança PBKDF2
-- 🐳 Docker, CI/CD com Azure Pipelines e GitHub Actions
+- Desenvolvedor Backend com foco em **microserviços .NET**
+- Experiência em **Clean Architecture**, **DDD** e padrões de design (Strategy, Factory, Repository)
+- Proficiente em **Azure** (Container Apps, Service Bus, Functions, API Management)
+- Implementação de **Event Sourcing** e **Event-Driven Architecture**
+- Autenticação JWT com segurança PBKDF2
+- Docker, CI/CD com Azure Pipelines e GitHub Actions
 
 ---
 
@@ -83,12 +83,12 @@ Arquitetura completa de microserviços para plataforma de venda de jogos digitai
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### Architecture & Patterns
-- 🏛️ **Clean Architecture** (Onion Architecture)
-- 📐 **Domain-Driven Design** (DDD)
-- 🎯 **SOLID Principles**
-- 🔄 **Event Sourcing** + **CQRS**
-- 📨 **Event-Driven Architecture** (EDA)
-- 🎨 **Design Patterns**: Strategy, Factory, Repository, Unit of Work
+- **Clean Architecture** 
+- **Domain-Driven Design** 
+- **SOLID Principles**
+- **Event Sourcing** + **CQRS**
+- **Event-Driven Architecture** 
+- **Design Patterns**: Strategy, Factory, Repository, Unit of Work
 
 ---
 
