@@ -1,9 +1,7 @@
 #  Olá! Sou Alexandre Zordan
 
-** Professor Centro Paula Souza | Desenvolvedor Backend .NET **
+**Professor Centro Paula Souza | Desenvolvedor Backend .NET**
 
-
-##  Sobre Mim
 
 Além de transformar vidas através da educação tecnológica,
 Especialista em construir sistemas distribuídos escaláveis utilizando Clean Architecture, Domain-Driven Design e Event Sourcing.
