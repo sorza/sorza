@@ -1,19 +1,18 @@
 #  Olá! Sou Alexandre Zordan
 
-**Desenvolvedor Backend .NET | Arquitetura de Microserviços | Azure Cloud**
-
-Especialista em construir sistemas distribuídos escaláveis utilizando Clean Architecture, Domain-Driven Design e Event Sourcing.
+** Professor | Desenvolvedor Backend .NET **
 
 ---
 
 ##  Sobre Mim
 
+Além de transformar vidas através da educação tecnológica,
+Especialista em construir sistemas distribuídos escaláveis utilizando Clean Architecture, Domain-Driven Design e Event Sourcing.
+
+- Docente no Centro Paula Souza em diversos componentes do curso de Desenvolvimento de Sistemas
 - Desenvolvedor Backend com foco em **microserviços .NET**
 - Experiência em **Clean Architecture**, **DDD** e padrões de design (Strategy, Factory, Repository)
 - Proficiente em **Azure** (Container Apps, Service Bus, Functions, API Management)
-- Implementação de **Event Sourcing** e **Event-Driven Architecture**
-- Autenticação e autorização com JWT e APIM
-- Docker, CI/CD com Azure Pipelines e GitHub Actions
 
 ---
 
