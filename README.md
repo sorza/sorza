@@ -9,8 +9,6 @@ Além de transformar vidas através da educação tecnológica, também sou espe
 - Experiência em **Clean Architecture**, **DDD** e padrões de design (Strategy, Factory, Repository)
 - Proficiente em **Azure** (Container Apps, AKS, Service Bus, Functions, API Management)
 
-##  GitHub Stats
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorza&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
