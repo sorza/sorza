@@ -1,4 +1,4 @@
-#  Olá! Sou Alexandre Zordan
+#  Prazer, Alexandre Zordan
 
 **Professor Centro Paula Souza | Desenvolvedor Backend .NET**
 
